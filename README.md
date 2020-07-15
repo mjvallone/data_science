@@ -15,6 +15,7 @@
         pip install requirements.txt
       
 4. Run streamlit for the file you want to try
+
         streamlit run file_to_try.py
 
 5. Your default browser will open and show you the outputs for the chosen file
