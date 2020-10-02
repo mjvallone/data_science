@@ -1,14 +1,7 @@
 .idea/
-*.iml
-*.iws
-*.eml
 out/
-.DS_Store
-.svn
 log/*.log
 tmp/**
-*.pyc
-*.mo
 __pycache__/
 .vscode
 /ds_env
