@@ -3,7 +3,6 @@ import pandas as pd
 import requests
 import json
 
-API_KEY = "AIzaSyCuCqi6DNPjWgpsRnsRUtDlr0NpvMOJNuc"
 VIDEO_ID = "RHlFYRonmj4"
 MAX_RESULTS=5
 #url = "https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyCuCqi6DNPjWgpsRnsRUtDlr0NpvMOJNuc&textFormat=plainText&part=snippet&videoId=RHlFYRonmj4&maxResults=50"

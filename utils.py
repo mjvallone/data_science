@@ -1,4 +1,6 @@
 import chardet
+import io, os
+import pandas as pd
 
 def get_null_cols(df):
   return [col for col in df.columns if df[col].isnull().any()]
@@ -52,7 +54,17 @@ def remove_categorical_cols_not_matching(X_train, X_valid):
   print('\nCategorical columns that will be dropped from the dataset:', bad_label_cols)
   return good_label_cols
 
-  def check(file_url):
-    with open(file_url, 'rb') as rawdata:
-        result = chardet.detect(rawdata.read(100000))
-    st.write(result)
+def check(file_url):
+  with open(file_url, 'rb') as rawdata:
+      result = chardet.detect(rawdata.read(100000))
+  st.write(result)
+
+def load_multiple_csv_files(files_list):
+  data = pd.DataFrame()
+  # files_2018 = "/content/drive/My Drive/datasets/2018/" + pd.DataFrame(os.listdir("/content/drive/My Drive/datasets/2018"))
+  # files_2019 = "/content/drive/My Drive/datasets/2019/" + pd.DataFrame(os.listdir("/content/drive/My Drive/datasets/2019"))
+  # files_to_read = pd.concat([files_2018,files_2019,pd.DataFrame(["/content/drive/My Drive/datasets/registro-obsequios-funcionarios-publicos-20201009.csv"])]).reset_index()
+  for idx, filename in files_list.values:
+      print("Loading: "+filename)
+      if filename.endswith("csv"):
+          data = pd.concat([data, pd.read_csv(filename)], axis=0)
