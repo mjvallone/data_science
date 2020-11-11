@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 import json
+import config
 
 VIDEO_ID = "RHlFYRonmj4"
 MAX_RESULTS=5
@@ -25,7 +26,7 @@ def get_data_from_url(url):
 def load_data(allow_output_mutation=True):
   from pandas.io.json import json_normalize
 
-  url = "https://www.googleapis.com/youtube/v3/commentThreads?key={}&textFormat=plainText&part=snippet&videoId={}&maxResults={}".format(API_KEY, VIDEO_ID, MAX_RESULTS)
+  url = "https://www.googleapis.com/youtube/v3/commentThreads?key={}&textFormat=plainText&part=snippet&videoId={}&maxResults={}".format(config.API_KEY, VIDEO_ID, MAX_RESULTS)
   response = urlopen(url)
   json_data = response.read().decode('utf-8', 'replace')
   d = json.loads(json_data)['items']
