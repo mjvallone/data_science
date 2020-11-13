@@ -1,0 +1,2246 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "IG9oXGbw463quUjzbocRLGQ3pjo",
+    "nextPageToken": "CDIQAA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "My0oW46pwnsUYcIB9EAfrA5JHbc",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjU2QjQ0RjZEMTA1NTdDQzY=",
+            "snippet": {
+                "publishedAt": "2020-11-08T19:46:49Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Shoko Asahara y el GAS SARIN",
+                "description": "Hoy vamos a conocer la historia de Shoko Asahara (Shōkō Asahara) y su secta AUM Verdad Suprema (Aum Shinrikyō). Algo que comenzó como una simple escuela de yoga que terminó transformandose en algo así como un culto donde adoraban a Shoko, quien decía ser el hombre mas iluminado desde Buda. Promesas de levitación y de telequinesis lograron atraer a las mentes mas brillantes de Japón, y todo tuvo un trágico final.\n\nhttps://www.instagram.com/damiankuc\nhttps://www.twitch.tv/damiankuc\nhttps://www.twitter.com/damiankuc\nCanal secundario: https://www.youtube.com/c/navechaque%C3%B1a",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RHlFYRonmj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RHlFYRonmj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RHlFYRonmj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RHlFYRonmj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RHlFYRonmj4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RHlFYRonmj4"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VqY3YLw7SKhsyL-Z8DxuC6SU0KE",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjI4OUY0QTQ2REYwQTMwRDI=",
+            "snippet": {
+                "publishedAt": "2020-11-05T01:12:38Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "El DIPUTRUCHO - El diputado que NO ERA diputado",
+                "description": "Hoy, otra bella historia de los 90 en argentina: La historia de Juan Abraham Konna, el diputado que NO era diputado pero que VOTO UNA LEY NACIONAL. Hermoo.\n\nhttps://www.instagram.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mI1lkiaKOUE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mI1lkiaKOUE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mI1lkiaKOUE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mI1lkiaKOUE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mI1lkiaKOUE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mI1lkiaKOUE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IuV8S5wVQZpJVfM6u9q9ZotaLO4",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjAxNzIwOEZBQTg1MjMzRjk=",
+            "snippet": {
+                "publishedAt": "2020-11-01T21:18:34Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Trafico de armas - Explosiones Rio Tercero",
+                "description": "Hoy vamos a hablar de lo que, a mi parecer, fue uno de los peores episodios de nuestra historia. Un caso de trafico ilegal de armas sale a la luz en 1995 y termina generando que una fabrica militar en Rio Tercero vuele por los aires, destruyendo toda una ciudad.\nUn nuevo episodio de el increíble universo de los 90 en Argentina.\n\nFuentes:\n-https://www.lanacion.com.ar/politica/contrabando-armas-ecuador-croacia-causa-mas-23-nid2178479\n-https://elcomercio.pe/mundo/latinoamerica/trafico-armas-ecuador-carlos-menem-historia-traicion-peru-noticia-564528-noticia/?ref=ecr\n-https://www.infobae.com/sociedad/policiales/2017/08/27/la-sospechosa-muerte-de-un-testigo-clave-en-la-venta-de-armas-y-los-parecidos-con-el-caso-nisman/\n-https://www.lanacion.com.ar/opinion/diego-palleros-menem-sabia-la-verdad-sobre-las-armas-nid564716/\n-https://www.perfil.com/noticias/politica/lourdes-di-natale-los-otros-cuadernos-de-corrupcion-que-sacudieron-al-poder.phtml\n-https://www.pagina12.com.ar/diario/elpais/1-77305-2006-12-06.html\n-https://www.perfil.com/noticias/politica/confirmaron-condena-de-siete-anos-de-prision-para-carlos-menem.phtml\n-https://www.diariouno.com.ar/san-rafael/13-anos-muerte-lourdes-di-natale-sabia-cosas-dijo-padre-01032016_r1Gegw7bJH\n-https://www.lanacion.com.ar/politica/reconstruyen-la-muerte-de-lourdes-di-natale-nid789147/\n-https://www.lavoz.com.ar/temas/explosiones-rio-tercero\n-https://www.youtube.com/watch?v=XbwXFJ8CmpI\n-https://www.youtube.com/watch?v=m_EfZxWhCkc\n-https://www.youtube.com/watch?v=TiRyUkuZ_-A\n-https://www.youtube.com/watch?v=Vcd9hoH8RvA\n-https://www.clarin.com/politica/largo-dia-sarlenga-lloro-quebro-conto_0_rklM2UugAtx.html\n-https://www.clarin.com/politica/explosion-fabrica-rio-tercero-intencional_0_BkUxkATx0Kl.html\n-https://www.perfil.com/noticias/politica/la-historia-de-la-causa-que-hace-18-anos-complica-la-vida-de-menem-20130308-0029.phtml\n-https://chequeado.com/ique-fue-de/el-contrbando-de-armas-a-ecuador-y-croacia/\n-https://www.lanacion.com.ar/politica/los-antecedentes-del-caso-nid1405860/\n-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0JYZapM0c4c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0JYZapM0c4c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0JYZapM0c4c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0JYZapM0c4c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0JYZapM0c4c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0JYZapM0c4c"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YPy2lTsacXq74zN9CkQZH1Ay2Eo",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjUyMTUyQjQ5NDZDMkY3M0Y=",
+            "snippet": {
+                "publishedAt": "2020-10-28T23:30:16Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "INGLATERRA invadida por FANTASMAS (GhostWatch)",
+                "description": "La noche de Halloween de 1992 fue un tanto diferente en Gran Bretaña. La BBC decidió largar un programa especial pero con el pequeño detalle de que no avisaron que era todo ficción.\nEl resultado? Gente enloquecida pensando que ahora todo el país estaba \"poseido\".\n\nhttps://www.instagram.com/damiankuc\n\nLink Brave:\nhttps://bit.ly/DamiKuc\n\nCuenta secundaria:\nhttps://www.youtube.com/c/navechaque%C3%B1a",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1W3wXylUARw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1W3wXylUARw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1W3wXylUARw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1W3wXylUARw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1W3wXylUARw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1W3wXylUARw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sc94EMuKyfOohGclO5pCvswiBiA",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjA5MDc5NkE3NUQxNTM5MzI=",
+            "snippet": {
+                "publishedAt": "2020-10-25T18:11:46Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Jose Rabadán - El asesino de la katana",
+                "description": "Hoy no hablamos de nada nacional, si no que nos vamos a España, mas específicamente a Murcia, para concer la historia de José Rabadán, quien, una noche, decidió matar a toda su familia con una katana. A mi parecer, una de las cosas mas llamativas de este caso, es la condena que obtuvo. Poco? Mucho? Justo? Queda a criterio de ustedes. \nBasado en documental Yo Fui Un Asesino de DPlay. \nVideo de Magnus Mefisto sobre el mismo caso: https://www.youtube.com/watch?v=KV-UcA4SxoU \n\nhttps://www.instagram.com/damiankuc \nhttps://www.twitch.tv/damiankuc \nhttps://www.twitter.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xH3Ow5Unt88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xH3Ow5Unt88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xH3Ow5Unt88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xH3Ow5Unt88/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xH3Ow5Unt88/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xH3Ow5Unt88"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eQ6QDfnQg_qOvbVXuhZWny1jNsI",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjEyRUZCM0IxQzU3REU0RTE=",
+            "snippet": {
+                "publishedAt": "2020-10-22T01:08:36Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "VUELVE el YAGUARETE a CHACO?",
+                "description": "Ayer tuve la suerte de adentrarme en El Impenetrable chaqueño para ver el laburo que está haciendo la fundación Rewilding Argentina. Y es una locura.\nLa historia de la extinción y el, por ahora intento de, repoblación de los yaguareté a Chaco es excelente y amerita una Historia Innecesaria. \nAguante Tania y aguante Qaramta.\nhttps://rewildingargentina.org/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TtHg3EqW6bw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TtHg3EqW6bw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TtHg3EqW6bw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TtHg3EqW6bw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TtHg3EqW6bw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TtHg3EqW6bw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "a-pmhsuNBm0m9wHnPFu0MDJfut0",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjUzMkJCMEI0MjJGQkM3RUM=",
+            "snippet": {
+                "publishedAt": "2020-10-18T20:51:26Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El secuestro de Axel Blumberg",
+                "description": "Hoy, un caso que movilizó a todo el país en 2004, el secuestro de Axel Blumberg. Un accionar policial fallido, un escape frustrado y una época muy complicada.\n\nFuentes:\n-https://www.cronista.com/impresageneral/Fuerte-critica-de-Blumberg-al-fallo-del-caso-Axel-con-solo-dos-perpetuas-20061026-0051.html\n-https://www.clarin.com/policiales/coronavirus-argentina-condenados-crimen-axel-blumberg-pidieron-prision-domiciliaria_0_K4ryXgcCj.html\n-https://www.informedigital.com.ar/noticia/101764\n-https://www.lanacion.com.ar/sociedad/un-ejecutivo-que-estuvo-cautivo-con-axel-revivio-su-calvario-nid826886/\n-https://www.telam.com.ar/notas/201403/55533-a-10-anos-del-caso-blumberg-el-oso-peralta-cumple-su-perpetua-y-solo-liberaron-a-las-mujeres.html\n-https://losojosdelavictima.wordpress.com/2008/08/01/quien-es-juan-carlos-blumberg/\n-https://www.infoveloz.com/post/asi-encontraron-asesinado-a-axel-blumberg-hace-10-anos_117705\n-https://www.infoveloz.com/post/asi-encontraron-asesinado-a-axel-blumberg-hace-10-anos_117705\n-https://www.infobae.com/sociedad/2019/12/13/juan-carlos-blumberg-a-15-anos-del-horror-todos-los-dias-visito-el-cuarto-de-axel/\n-https://www.eldia.com/nota/2004-4-18-apartan-al-fiscal-que-actua-en-el-caso-axel-blumberg\n-https://www.youtube.com/watch?v=V1H7qKM5xMQ\n-https://www.youtube.com/watch?v=ETHKiBENvtU\n-https://www.youtube.com/watch?v=10CfwDNT00E\n-https://webcache.googleusercontent.com/search?q=cache:L9yjvo-3pZ4J:https://www.a24.com/actualidad/15-anos-secuestro-asesinato-axel-blumberg-caso-puso-argentina-hablar-inseguridad-03232019_rJ5c3Rzd4+&cd=3&hl=es-419&ct=clnk&gl=ar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mTTa_nf1NcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mTTa_nf1NcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mTTa_nf1NcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mTTa_nf1NcE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mTTa_nf1NcE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mTTa_nf1NcE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "L1gBHPw5OmPbtzvi4sitFvqgsgM",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkNBQ0RENDY2QjNFRDE1NjU=",
+            "snippet": {
+                "publishedAt": "2020-10-15T21:39:43Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "¿CHAU a la BANANA como la CONOCEMOS?",
+                "description": "Sabías que el sabor de los caramelos de banana es en realidad el sabor de una banana EXTINTA?\nHoy una historia recomendada por el señor Luciano Mellera, la historia de la extinción de la banana.\nAl igual que en los años 60, estamos cerca de que la banana (que, por si no te diste cuenta, no tiene semillas), deje de existir como la conocemos.\nSerá éste el inicio de una nueva camada de bananas? O lograremos rescatar a la actual?\n\nhttps://www.instagram.com/damiankuc\nhttps://www.twitter.com/damiankuc\nhttps://www.twitch.tv/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hNCKAqk46eU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hNCKAqk46eU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hNCKAqk46eU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hNCKAqk46eU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hNCKAqk46eU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hNCKAqk46eU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wvzE1zpBoqRkCx_RZCeR5TjCY2s",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjk0OTVERkQ3OEQzNTkwNDM=",
+            "snippet": {
+                "publishedAt": "2020-10-11T21:30:34Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: La tragedia de los Andes",
+                "description": "Hoy vamos a conocer (o recordar) la historia de la tragedia (o milagro) de los Andes. 45 personas, la mayoría jugadores de rugby uruguayos, a bordo de un avión que, después de un fatal error de navegación, terminó en el medio de los Andes sin que nadie lo busque.\nUna historia que paso, valga la redundancia, a la historia por el detalle quizás mas morboso: quienes sobrevivieron tuvieron que comerse a sus compañeros fallecidos para seguir viviendo.\nPrensa, amarillismo, canibalísmo pero, por sobre todas las cosas, una historia increíble.\n\nhttps://www.instagram.com/damiankuc\nhttps://www.twitter.com/damiankuc\nhttps://www.twitch.tv/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nFna3BNxr2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nFna3BNxr2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nFna3BNxr2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nFna3BNxr2A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nFna3BNxr2A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nFna3BNxr2A"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VqVlsB_zTE84f3Oy5fUZ3MEjTk4",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkY2M0NENEQwNDE5OEIwNDY=",
+            "snippet": {
+                "publishedAt": "2020-10-07T22:42:49Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Los (NO) shows de KISS en Argentina",
+                "description": "Hoy, la historia de la travesía sin fin para que Kiss toque en Argentina. Un show que no fue, al menos, dos veces. La aparición de Carlos Spadone (Si! El de la leche adulterada), productores fantasmas y un supuesto show en Boca en 1983.\nLink Brave:\nhttps://bit.ly/DamiKuc\nFuente: https://pogopedia.com.ar/noticias/kiss-en-boca-historia-de-la-visita-que-no-fue",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qsP0nuPSYtc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qsP0nuPSYtc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qsP0nuPSYtc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qsP0nuPSYtc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qsP0nuPSYtc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qsP0nuPSYtc"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dss0nIbDFnNm4htSlIrMRST7BuE",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjQ3NkIwREMyNUQ3REVFOEE=",
+            "snippet": {
+                "publishedAt": "2020-09-30T23:55:07Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "La ABUELA que se hizo MILLONARIA demandando a MCDONALDS",
+                "description": "Link Brave:\nhttps://bit.ly/DamiKuc\nLa historia de Stella Liebeck, una mujer de 80 años que, a raíz de las altas temperaturas a las cuales McDonalds servía el café, terminó (además de gravemente herida) haciendose millonaria.\n\nhttps://www.instagram.com/damiankuc\nhttps://www.twitter.com/damiankuc\nhttps://www.twitch.tv/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CxKDlxijei8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CxKDlxijei8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CxKDlxijei8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CxKDlxijei8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CxKDlxijei8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CxKDlxijei8"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hCyCoCTw7lSN_z7tvw53iAO62f8",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkQwQTBFRjkzRENFNTc0MkI=",
+            "snippet": {
+                "publishedAt": "2020-09-27T19:32:08Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: La CASA EMBRUJADA de GRAL MADARIAGA",
+                "description": "Espiritus? Poltergeist? Una joda de un nene de 10 años? Fraude? \nHoy vamos a conocer la historia detrás de la casa de los Ferreyra, la llamada casa embrujada de General Madariaga. Un caso del cual todos los medios hicieron alguna nota en febrero de 1993.\nFuentes:\n-https://www.clarin.com/especiales/ultima-casa-embrujada-fascino-pais_0_HJG0YwVTz.html\n-https://www.infoveloz.com/post/el-enigma-de-las-casas-embrujadas-parte-iii_121373\n-https://www.facebook.com/photo/?fbid=2032027330370936&set=gm.152468818928863\n-https://www.youtube.com/watch?v=vIOLqQQoeKc\n-https://www.youtube.com/watch?v=3eIeuE2V4CA\n\nhttps://www.instagram.com/damiankuc\nhttps://www.twitter.com/damiankuc\nhttps://www.twitch.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PSKoMqRiSGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PSKoMqRiSGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PSKoMqRiSGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PSKoMqRiSGs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PSKoMqRiSGs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PSKoMqRiSGs"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bGTDamjyEZ1MRtwx3_v0RyqMM6c",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjk4NEM1ODRCMDg2QUE2RDI=",
+            "snippet": {
+                "publishedAt": "2020-09-23T23:48:28Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Los VIDAL: ABDUCCIÓN extraterrestre o TELETRANSPORTACIÓN?",
+                "description": "Link Brave:\nhttps://bit.ly/DamiKuc\nLink Paxful:\nhttps://paxful.com/es?r=12Q9Rx4x3d9\nHoy vamos a conocer la historia de los Vidal, una familia que, supuestamente, se teletransportó desde Buenos Aires hasta Mexico en un abrir y cerrar de ojos.\nFuentes:\nhttp://www.enlacecritico.com/investigaciones-articulos/el-increible-caso-vidal-teletransportacion-entre-argentina-y-mexico/\nhttp://www.visionovni.com.ar/archivos/1144\nhttps://factorelblog.com/2015/08/20/teletransportame-uset-in-memoriam-1939-2015/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CgD5mJGM-1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CgD5mJGM-1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CgD5mJGM-1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CgD5mJGM-1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CgD5mJGM-1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CgD5mJGM-1Q"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mqyx4pDKwoqt27oFa8DNCBUkAUA",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjMwODkyRDkwRUMwQzU1ODY=",
+            "snippet": {
+                "publishedAt": "2020-09-20T19:56:06Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El robo de Eliana Garelli",
+                "description": "Hoy, la historia de Eliana Garelli, quién a las tan solo 8 horas de vida fue robada por Maria Rosa del Valle Diaz. Un caso insólito que paralizó al país durante 12 días.\nGracias Resiste Un Archivo!\n-http://www.missingchildren.org.ar/listado.php?categoria=perdidos\n-http://www.personasperdidas.org.ar/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8kckPjQAukQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8kckPjQAukQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8kckPjQAukQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8kckPjQAukQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8kckPjQAukQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8kckPjQAukQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DjG2T4VDHZ1o72kT38P6RwTi7Zs",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjUzOTZBMDExOTM0OTgwOEU=",
+            "snippet": {
+                "publishedAt": "2020-09-16T18:49:35Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "La MENTIRA de la VITAMINA C",
+                "description": "Lo que me gusta de ésta historia es que es todo lo contrario a la famosa frase de \"Las grandes farmacéuticas nos ocultan la verdad para ganar dinero\". Nos están diciendo una y otra vez que no sirve, pero seguimos yendo a comprarla.\nLa historia la extraje del principio del libro \"Pensar con Otros\" de Guadalupe Nogués - El Gato y la Caja.\nLinus Pauling, la vitamina C y los resfrios.\n\nhtpps://www.instagram.com/damiankuc\nhtpps://www.twitter.com/damiankuc\nhtpps://www.twitch.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HowOIZhw9XQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HowOIZhw9XQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HowOIZhw9XQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HowOIZhw9XQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HowOIZhw9XQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HowOIZhw9XQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "23lrnAux9BWFqtQPhpsGaHmpcKI",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkRBQTU1MUNGNzAwODQ0QzM=",
+            "snippet": {
+                "publishedAt": "2020-09-13T21:33:34Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Julio Lopez - Miguel Etchecolatz",
+                "description": "Hoy vamos a conocer la historia de Julio Lopez. Un nombre que constantemente escuchamos pero del cual pocos conocen su historia. \nEn paralelo, la condena a Miguel Etchecolatz, uno de los mayores represores de la dictadura militar argentina.\nPrimer testimonio de Julio Lopez: https://www.lavaca.org/notas/el-primer-testimonio-de-julio-lopez/\n\nFuentes:\nhttps://unlp.edu.ar/ddhh/a-13-anos-de-la-segunda-desaparicion-de-jorge-julio-lopez-16802\nhttps://www.filo.news/actualidad/Cronologia-de-la-causa-Jorge-Julio-Lopez-20180918-0038.html\nhttps://www.mendozapost.com/nota/18616-julio-lopez-la-historia-desconocida-del-secuestro-que-no-fue/\nhttps://www.pagina12.com.ar/218854-trece-anos-de-la-desaparicion-de-julio-lopez\nhttps://www.lavoz.com.ar/politica/se-cumplen-13-anos-de-desaparicion-de-julio-lopez\nhttps://www.filo.news/actualidad/13-anos-sin-Jorge-Julio-Lopez-las-claves-de-la-causa-20190917-0037.html\nhttps://www.clarin.com/politica/julio-lopez-fiscalia-cruza-5-millones-llamadas-coteja-huellas-dactilares-cuerpos-nn_0_eMUMYUk5.html\nhttps://www.youtube.com/watch?v=wG4RWOUG_jQ\nhttps://www.youtube.com/watch?v=JeARx1vVRdg\n\nhttps://www.instagram.com/damiankuc\nhttps://www.twitter.com/damiankuc\nhttps://www.twitch.tv/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CArC7YtRwFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CArC7YtRwFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CArC7YtRwFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CArC7YtRwFs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CArC7YtRwFs"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DClpuTLKwI4bGfTn3u3Kg5FsDvQ",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjVBNjVDRTExNUI4NzM1OEQ=",
+            "snippet": {
+                "publishedAt": "2020-09-09T21:33:57Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "INFIERNO en las ALTURAS (Vuelo 705 de FedEx)",
+                "description": "Link Paxful:\nhttps://paxful.com/es?r=12Q9Rx4x3d9\nLink Brave:\nhttps://bit.ly/DamiKuc\nExplicación detallada by Dami(Banana Rancia):\nhttps://www.youtube.com/watch?v=axsgbdFqrHU\n\nTranscripción CVR:\nhttps://www.tailstrike.com/070494.htm\n\nHoy vamos a conocer la historia de Auburn R. Calloway, el empleado de FedEx que un día decidió simular un accidente aéreo...atacando a sus compañeros con dos martillos y un arpón.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YRpS6Rqv92Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YRpS6Rqv92Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YRpS6Rqv92Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YRpS6Rqv92Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YRpS6Rqv92Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YRpS6Rqv92Y"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u6IzraY7nRT-lmkDLBRlG7qmFLM",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjIxRDJBNDMyNEM3MzJBMzI=",
+            "snippet": {
+                "publishedAt": "2020-09-06T21:21:08Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Maria Soledad Morales y los hijos del poder (30 años)",
+                "description": "Hoy, el femicidio de Maria Soledad Morales y los reiterados intentos por ocultar la verdad y encubrir a los (poderosos) culpables. Un caso que conmovió, no solo a Catamarca, si no a todo el país.\nFuentes:\n-Pelicula \"El Caso Maria Soledad\"\n-Archivo DiFilm\n-Juicio Maria Soledad Morale subido por JMC: https://www.youtube.com/watch?v=sS5NjAQTtyA (parte 1)\n-https://www.elsol.com.ar/maria-soledad-la-cronologia-del-crimen-que-conmovio-al-pais\n-https://60lineas.wordpress.com/2015/09/07/maria-soledad-morales-cronologia-a-25-anos-de-un-crimen-atroz/\n-https://www.clarin.com/policiales/maria-soledad-morales-decadas-simbolo-impunidad-poder-feudal-complice_0_uCb8owbG9.html\n-http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0185-30822006000200013\n-https://www.airedesantafe.com.ar/sociedad/29-anos-maria-soledad-morales-sonaba-ser-modelo-y-termino-asesinada-los-hijos-del-poder-n122796\n-https://www.lanacion.com.ar/sociedad/maria-soledad-morales-el-caso-que-revoluciono-catamarca-nid2156009\n-https://www.lanacion.com.ar/politica/maria-soledad-morales-un-misterio-muchas-heridas-nid2439626\n-https://www.airedesantafe.com.ar/sociedad/29-anos-maria-soledad-morales-sonaba-ser-modelo-y-termino-asesinada-los-hijos-del-poder-n122796",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CBxrQc1zryo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CBxrQc1zryo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CBxrQc1zryo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CBxrQc1zryo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CBxrQc1zryo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iqHswe0fk7H1yMYDlNCRzF6g6qg",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjlFODE0NEEzNTBGNDQwOEI=",
+            "snippet": {
+                "publishedAt": "2020-09-02T22:48:31Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "El FATAL resultado de declararle la GUERRA a los GORRIONES",
+                "description": "DESCARGA BRAVE\nhttp://bit.ly/DamiKuc\n\nHoy vamos a conocer la historia de cuando China decidió declararle la guerra a los mosquitos, moscas, ratas y gorriones. Quizás, sin pensar en el trágico resultado que iba a tener años después. Un curioso \"efecto mariposa\".\n\nwww.instagram.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UW06CMP_3tc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UW06CMP_3tc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UW06CMP_3tc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UW06CMP_3tc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UW06CMP_3tc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UW06CMP_3tc"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IHjhWA5cH587mFTnbCHq07lGilg",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkQ0NThDQzhEMTE3MzUyNzI=",
+            "snippet": {
+                "publishedAt": "2020-08-30T22:35:22Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Pseudociencias y Dioxido de Cloro",
+                "description": "Hoy vamos a sumergirnos en el océano de las pseudociencias y vamos a ver por qué es importante chequear la evidencia que hay detrás de una supuesta afirmación. Además: Jim Humble, su iglesia y su \"suplemento mineral milagroso\" que cura practicamente TODO.\nFUENTES:\n-\"Pensar con Otros\" de Guadalupe Nogues - El Gato y La Caja\nhttps://beta.elgatoylacaja.com/pensarconotros\n-https://maldita.es/malditaciencia/2018/11/26/homeopatia-en-suiza-como-ha-llegado-a-estar-incluida-en-el-seguro-medico-basico/\n-https://maldita.es/malditobulo/2020/08/26/coronavirus-bulos-pandemia-prevenir-virus-covid-19/\n-https://psicosaludtenerife.com/2019/03/29/el-timo-del-origen-emocional-de-las-enfermedades/\n-https://chequeado.com/el-explicador/no-consumir-dioxido-de-cloro-no-cura-el-coronavirus-y-es-peligroso-para-la-salud/\n-https://maldita.es/malditaciencia/2020/08/29/mms-clorito-sodio-coronavirus-cientifico-aleman-cura/\n-https://www.nih.gov/news-events/news-releases/nih-clinical-trial-remdesivir-treat-covid-19-begins\n-https://about.kaiserpermanente.org/our-story/health-research/news/first-covid-19-vaccine-trial-at-kaiser-permanente-washington\n-https://www.curevac.com/news/curevac-focuses-on-the-development-of-mrna-based-coronavirus-vaccine-to-protect-people-worldwide\n-https://www.jnj.com/lack-of-evidence-to-support-darunavir-based-hiv-treatments-for-coronavirus\n-https://www.youtube.com/watch?v=WhMGcp9xIhY",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PtL2Fzb9fmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PtL2Fzb9fmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PtL2Fzb9fmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PtL2Fzb9fmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PtL2Fzb9fmE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PtL2Fzb9fmE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mcZh6395miPhaMPo5jfZGjFiRAk",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjIwOEEyQ0E2NEMyNDFBODU=",
+            "snippet": {
+                "publishedAt": "2020-08-26T15:49:11Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "El día que CANCELARON a SINEAD O'CONNOR",
+                "description": "Hoy vamos a conocer la historia de Sinead O'Connor, más precisamente, vamos a transportarnos a la noche donde, al romper una foto del Papa, arruinó su carrera.\nUna foto rota, una reacción, quizas un tanto exagerada, por parte de la gente y la famosa \"cultura de la cancelación\".\n\nDESCARGA BRAVE\nhttp://bit.ly/DamiKuc\nGracias a todos por sus mensajes relacionados a Brave. Más allá de todo, es un golazo recomendar algo y recibir tan buen feedback sobre eso, esta muy bueno recomendar algo de calidad y que encima eso banque lo que uno hace.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m1VVqzNf5vE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m1VVqzNf5vE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m1VVqzNf5vE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m1VVqzNf5vE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m1VVqzNf5vE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m1VVqzNf5vE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5cMA-H-rE9pTVZWmx28rOrlilZQ",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkYzRDczQzMzNjk1MkU1N0Q=",
+            "snippet": {
+                "publishedAt": "2020-08-23T22:08:45Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El caso Nair Mostafá",
+                "description": "Hoy vamos a ver un caso que conmocionó a Argentina en la noche de fin de año de 1989. Una madre, una denuncia completamente menospreciada y un pueblo enfurecido.\n\nwww.instagram.com/damiankuc\nwww.twitter.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0oYGLEiS1CU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0oYGLEiS1CU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0oYGLEiS1CU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0oYGLEiS1CU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0oYGLEiS1CU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0oYGLEiS1CU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bZIfcOFNK0IXbEXKhkbmY_TJaZI",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjNGMzQyRUJFODQyRjJBMzQ=",
+            "snippet": {
+                "publishedAt": "2020-08-20T23:59:54Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Actualización de Historias Innecesarias (Puch - Yuyo Barragan - Piñel y más)",
+                "description": "Hoy un video un tanto diferente, para bajar un poco de información que quedó en el tintero. \nVideos de los que hablo:\n\nEl Hannibal Lecter ARGENTINO:\nhttps://www.youtube.com/watch?v=RseunqLqPjw\n\nHistorias Innecesarias: Los DOCE APOSTOLES (Motin de Sierra Chica)\nhttps://www.youtube.com/watch?v=ySvikZmmtQs\n\nHistorias Innecesarias: La HISTORIA REAL detras del ROBO DEL SIGLO (Banco Rio Acassuso)\nhttps://www.youtube.com/watch?v=WpYFuuj64hw\n\nHistorias Innecesarias: El Lineamiento Universal Superior (LUS)\nhttps://www.youtube.com/watch?v=2pcmoRRgBEE\n\nYuyo Barragán: El PRIMER HACKER argentino\nhttps://www.youtube.com/watch?v=h4fMPB80yOw\n\nLos RAMONES en ARGENTINA - PUBLICIDAD sale MAL\nhttps://www.youtube.com/watch?v=yy_qB7WsBt4\n\nHistorias Innecesarias: La VERDADERA historia de EL ANGEL (Robledo Puch)\nhttps://www.youtube.com/watch?v=n6Ap_sUKYYw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OkrGquZSdI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OkrGquZSdI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OkrGquZSdI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OkrGquZSdI8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OkrGquZSdI8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OkrGquZSdI8"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vitbB9cn61GnAXdJT1t2EUtG-f8",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjk3NTBCQjUzRTE1OEEyRTQ=",
+            "snippet": {
+                "publishedAt": "2020-08-16T20:16:51Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Los ENFERMEROS ¿asesinos? de URUGUAY (Angeles de la Muerte)",
+                "description": "Gracias a Emiliano Zecca por la tremenda ayuda, estuve al borde de desistir de hacer éste video hasta que dí con él.\nLa historia de los enfermeros que, durante años, fueron sinónimo de asesinos seriales. Su absolución y el poco cubrimiento mediático que tuvo el avance del caso.\nY gracias a Bolivia por el pijama customizado!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PXqOTx14g28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PXqOTx14g28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PXqOTx14g28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PXqOTx14g28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PXqOTx14g28/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PXqOTx14g28"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gTAX5yAOH3ek_zIOy_imQQmF3Ao",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkM3MTVGNkQxRkIyMDREMEE=",
+            "snippet": {
+                "publishedAt": "2020-08-12T22:59:37Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "La HISTORIA detrás de la TOMA DE REHENES viral (El Sucio Guardo)",
+                "description": "Hace años que me encuentro con el mismo video en Youtube: Una transmisión de Cronica TV donde se ve una toma de rehenes en una estación de servicio acá en Argentina, pero nunca supe cual era el contexto y quienes eran los que aparecían en pantalla.\nHoy te lo cuento. La historia de Diego \"El Sucio\" Guardo. Su vida y su (anunciado) final.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6d29U4Ekrog/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6d29U4Ekrog/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6d29U4Ekrog/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6d29U4Ekrog/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6d29U4Ekrog/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6d29U4Ekrog"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jm90MdyPamuPymlffQv3hSDbAgE",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjcxMjU0MjA5MzBCMjEzM0Y=",
+            "snippet": {
+                "publishedAt": "2020-08-09T20:15:37Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El ROBO de las MANOS de PERON",
+                "description": "Hoy vamos a conocer el misterio que rodea al robo de las manos de Juan Domingo Peron. Ritual masonico? Deudas con la mafia? Cuenta bancaria en Suiza? Vamos a ver que tanto de eso es cierto y que otro tanto, pura fantasía.\n\nDescarga BRAVE desde acá:\nhttps://brave.com/ped457\n\nwww.instagram.com/damiankuc\nwww.twitter.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3QYyg-3ZxIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3QYyg-3ZxIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3QYyg-3ZxIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3QYyg-3ZxIw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3QYyg-3ZxIw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3QYyg-3ZxIw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zKYbGL7yXQQzxeN0gmni_6C_-S8",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkNDQzJDRjgzODQzRUY4RjA=",
+            "snippet": {
+                "publishedAt": "2020-08-05T21:51:48Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Es ILEGAL sacarle FOTOS a la TORRE EIFFEL de NOCHE (Ft Agustin \"Soy Rada\" Aristaran)",
+                "description": "Hoy, junto a una de las personas que más admiro, Agustin Aristaran AKA Rada, personificando a Gustavito Eiffel, les contamos por qué es ilegal sacarle fotos o filmar a la Torre Eiffel de noche.\n\nRada: \nhttps://www.youtube.com/user/magoradagast\nhttps://www.instagram.com/soyrada\nhttps://twitter.com/Soy_Rada\n\nVideo con Rada:\nhttps://www.youtube.com/watch?v=Ey7XhU-DrOI\n\nwww.instagram.com/damiankuc\nwww.twitter.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L-CyRdmuxV0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L-CyRdmuxV0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L-CyRdmuxV0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L-CyRdmuxV0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/L-CyRdmuxV0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "L-CyRdmuxV0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y570tl6qMQGgl4m0PIxGOTGUAM4",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjJBQTZDQkQxOTg1MzdFNkI=",
+            "snippet": {
+                "publishedAt": "2020-08-02T19:49:31Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El Lineamiento Universal Superior (LUS)",
+                "description": "Hoy vamos a conocer la historia de la organizacion coercitiva LUS (Lineamiento Universal Superior), creada por Valentina De Andrade y (entre otros) su esposo Jose Alfredo Teruggi.\nUna \"secta\" que se originó en Argentina, pero que pisó muy fuerte en Brasil, donde fue acusada de estar vinculada a trágicos hechos: El asesinato de Evandro Ramos Caetano y Leandro Bossi.\n\nFUENTES:\n-http://marcianitosverdes.haaan.com/2016/05/los-orgenes-de-lineamiento-universal-superior/\n-https://factorelblog.com/2015/12/31/sos-clomro/\n-http://www.elojoesceptico.com.ar/revistas/eoe05/eoe0511\n-https://www.thecriminalcode.com/index.php/2017/11/21/move-over-manson-theres-a-new-cult-leader-in-town/\n-https://culturacolectiva.com/history/superior-universal-alignment-ufo-cult-murders\n\nRED LIBREMENTES:\nhttp://www.leyantisectas.com/\nhttps://www.twitter.com/leyantisectas\nhttps://www.instagram.com/PabloGSalum/\n\nCaso Ramoncito:\nhttps://www.youtube.com/watch?v=gWJe8N1Dgho\n\n\nwww.instagram.com/damiankuc\nwww.twitter.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2pcmoRRgBEE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2pcmoRRgBEE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2pcmoRRgBEE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2pcmoRRgBEE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2pcmoRRgBEE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2pcmoRRgBEE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "auPNPu3T3CdOP-GcxbGuiwksVr8",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkMyRTg1NjVBQUZBNjAwMTc=",
+            "snippet": {
+                "publishedAt": "2020-07-29T17:08:55Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "El COSITO de la PIZZA es ARGENTINO y se llama SEPI",
+                "description": "Gracias a BRAVE por sponsorear el video de hoy! Les dejo el enlace para descargarlo y tantearlo. Si, podes sincronizar hasta los marcadores de Chrome:\nLINK: https://brave.com/ped457\nHoy vamos a conocer la historia de \"el cosito de la pizza\" (que, por cierto, se llama SEPI) y su inventor: Claudio Daniel Troglia.\n\nwww.instagram.com/damiankuc\nwww.twitter.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f9BNU5AdQoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f9BNU5AdQoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f9BNU5AdQoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f9BNU5AdQoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f9BNU5AdQoo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f9BNU5AdQoo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zuVyrF5uQbsj7rQF7PJq1fb22R8",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjgyNzlEQUFFQTYxN0VENTQ=",
+            "snippet": {
+                "publishedAt": "2020-07-26T22:57:17Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Ycua Bolaños - El infierno en la tierra",
+                "description": "Hoy vamos a conocer la historia de un hecho del cual se cumplen ya 16 años: el trágico incendio en el supermercado Ycua Bolaños (Botanico) en Asunción - Paraguay.\nPuertas cerradas, nulo mantenimiento en una chimenea, y un resultado más que evitable.\n\nwww.instagram.com/damiankuc\nwww.twitter.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OWmRNbsLjr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OWmRNbsLjr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OWmRNbsLjr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OWmRNbsLjr0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OWmRNbsLjr0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OcWvROtQp1Eaqb4s4iafDVuHyJo",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjc0OEVFODA5NERFNThGODc=",
+            "snippet": {
+                "publishedAt": "2020-07-19T17:25:02Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El Clan Puccio - La historia definitiva",
+                "description": "Bienvenidos al especial por los 555.555 suscriptores! Uno de los videos con los que mas conforme quedé con el resultado final. \nDurante dos semanas me metí de lleno en el universo Puccio: Volví a leer el libro del gran Rodolfo Palacios, volví a ver la serie y la película, cientos de notas, informes, horas y horas de archivo y hasta me vi completo el que, a mi parecer, es uno de los videos mas infumables de todo YouTube: el monologo de Arquímedes Puccio postrado en la cama post ACV (Tranquilos, lo edité y puse lo más relevante, aparece al final del video).\nMe aprendí de memoria el discurso que Arquímedes tenía, me sorprende como su psicopatía lo llevó a aprenderselo palabra por palabra y repetirlo en un sin fin de entrevistas. Incluso en su lecho de muerte no cambió ni una sola palabra: \"No los secuestramos, los detuvimos. No los matamos, los ejecutamos.\"\nEspero que les guste tanto como a mí. Cuando uno ve el resultado final nota que valieron la pena las horas y horas de edición y quedarse hasta las 5 de la mañana editando y re-editando.\n\nAgradecimientos eternos a todos ustedes, a Kevin que me puso en contacto con Rodolfo Palacios,  a Tomas Garcia, a Fede mi editor que le pone ese efecto 3D tan copado a las fotos, a la gente que prefirió mantenerse en el anonimato y que, conociendo a algunos de los Puccio me facilitaron fotos antiguas que, literalmente, no existen en internet y, por supuesto, a Venex por la confianza y por querer laburar conmigo.\n\nhttps://bit.ly/VENEX\n\nNuevamente, los videos utilizados son de la serie HISTORIA DE UN CLAN de Sebastian y Luis Ortega, todos los derechos para ellos y Underground. (En el video hubo un error y dije \"Dirigida por Sebastian Ortega\", Sebastian es productor, Luis el director, disculpas)\nUna pequeña escena (Salto de Alejandro Puccio) es de la película EL CLAN de Pablo Trapero. (Disponible en FLOW)\n\nSalú y por mas Historias Innecesarias!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2CBCqwn2w64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2CBCqwn2w64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2CBCqwn2w64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2CBCqwn2w64/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2CBCqwn2w64/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2CBCqwn2w64"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "X4TNPi1P-Fh5rr-mAUzd5jf65uk",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjVBRkZBNjk5MThBNERBRTg=",
+            "snippet": {
+                "publishedAt": "2020-07-17T20:27:26Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "ACTUALIZACIÓN NECESARIA",
+                "description": "Éste domingo se viene el especial por los 500.000 suscriptores...bueno, 555.555 suscriptores. Y para que el video del domingo no sea eterno, decidí mostrar lo nuevo hoy.\nDesde ya, nuevamente, gracias a absolutamente todos. La recepción que tiene el canal me sorprende hasta el día de hoy.\n-Tomas Garcia (Fondo, intro):\nhttps://www.youtube.com/channel/UColsEN2qxEYSIYkAo2X02UA\n-Varonessa (Pijama):\nhttps://www.instagram.com/varonessaaltacostura\n-Julian (Música):\nhttps://www.instagram.com/julian.principe/\n-Ale (Tipografia):\nhttps://www.instagram.com/alepaul/\n-Minerva (Ladrido del final)\n\nPor otro lado, en mi Instagram deje fotos del recorrido de la mansión:\nwww.instagram.com/damiankuc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yqWYhDhXLXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yqWYhDhXLXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yqWYhDhXLXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yqWYhDhXLXo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yqWYhDhXLXo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yqWYhDhXLXo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4gknI3NmuRCY9RpA5aPPyouPxy8",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjNEMEM4RkM5QzQwNjk0QTM=",
+            "snippet": {
+                "publishedAt": "2020-07-15T22:11:08Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Thomas Quick: El ASESINO que NUNCA asesinó",
+                "description": "Dale capo ponete titulos menos desastrozos.\nHoy la historia de Thomas Quick, un hombre al cual llegaron a llamar El Hannibal Lecter europeo. Confesó haber cometido mas de 30 crimenes...pero fue tan así? Te cuento.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6lKJRcDzAFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6lKJRcDzAFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6lKJRcDzAFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6lKJRcDzAFA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6lKJRcDzAFA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6lKJRcDzAFA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UsWQqq7NFy-r8kvQdx_iipZ_a7Q",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkIwRDYyOTk1Nzc0NkVFQ0E=",
+            "snippet": {
+                "publishedAt": "2020-07-10T16:05:26Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El caso de Solange Grabenheimer",
+                "description": "En 2007, a 5 años del caso de Maria Marta Garcia Belsunce, un hecho vergonzoso sucedió en torno al femicidio de Solange Grabenheimer.\nUna escena del crimen donde se inspeccionó poco  y nada, tres datas de muerte distintas e hipotesis que no se investigaron.\nUn fallo judicial insólito...o un caso que se forzó para un lado para intentar tapar la poca investigación?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lVjA8EWvGlw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lVjA8EWvGlw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lVjA8EWvGlw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lVjA8EWvGlw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lVjA8EWvGlw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lVjA8EWvGlw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u7_V9OIrUxu61A5PlemgYBKomxY",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjYxMjg2NzZCMzVGNTUyOUY=",
+            "snippet": {
+                "publishedAt": "2020-07-10T14:51:40Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "La PÉSIMA idea de ENVIARSE por CORREO",
+                "description": "Hoy vamos a concer la historia de dos tipos a los cuales les pareció buena idea meterse en una caja y mandarse por correo, hermosa pero peligrosisima manera de viajar (casi) gratis.\nA uno le salió bien, al otro, todo lo contrario.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cdPDrL1M1tQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cdPDrL1M1tQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cdPDrL1M1tQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cdPDrL1M1tQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cdPDrL1M1tQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cdPDrL1M1tQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MCjUUEG2yUvWWJzFLgD-RxYVgU0",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjlGM0UwOEZDRDZGQUJBNzU=",
+            "snippet": {
+                "publishedAt": "2020-07-08T22:47:29Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "La ÉPOCA en la que te SOPLABAN HUMO...en el ANO",
+                "description": "Hoy vamos a viajar al pasado y a agradecer a los avances de la ciencia. Nos remontamos a cuando se creía que soplarnos humo de tabaco por el ano era buena idea y algo que nos iba a salvar de todo.\nPor suerte, hoy en día ya no es así. Más aún teniendo en cuenta el precio actual de los cigarrillos.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9qccV-ESrvg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9qccV-ESrvg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9qccV-ESrvg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9qccV-ESrvg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9qccV-ESrvg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9qccV-ESrvg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "24ghbC4_71DWSNDHzIO5HNjMAY8",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjRBMDc1NTZGQzVDOUIzNjE=",
+            "snippet": {
+                "publishedAt": "2020-07-05T20:46:56Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: El PEOR error de los ROLLING STONES (Altamont)",
+                "description": "Hoy viajamos a los '60. A plena época hippie, todo era alegría, flores y diversión. Hasta que, entre otras cosas, los Rolling Stones llevaron a cabo el Altamont Free Festival: un festival que intentó emular a Woodstock, pero donde todo salió mal.\nUna mala organización y los Hells Angels como \"seguridad\" del evento, dos cosas que, combinadas, no resultan en nada bueno.\n\nColumna en Ultimos Cartuchos:\nhttps://www.youtube.com/watch?v=zNonzqjk_XI\n\nParte del audio de la pelea de Jefferson Airplane estaba registrada como canción, una pena porque recién saltó el copyright como a las 16 hs de haber subido el video. Por eso quedó el silencio en esa parte, disculpas!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q-u0tsczTMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q-u0tsczTMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q-u0tsczTMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q-u0tsczTMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q-u0tsczTMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Q-u0tsczTMU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wAguguPYix3bc2D9T1a5reZ6uXs",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkFGMkM4OTlEQzQ2OTMxQjI=",
+            "snippet": {
+                "publishedAt": "2020-07-04T01:39:58Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "El COPYRIGHT del FELIZ CUMPLEAÑOS (Y del PAYASO PLIN PLIN)",
+                "description": "Hoy, en el día de mi natalicio (buena palaaabra, rey!) te cuento la historia de la canción más popular del mundo: El feliz cumpleaños, también conocida como el japi berdei tuyu.\nQuien tiene los derechos y por qué Warner ganó tanta plata? Y el Payaso Plin Plin de donde salio? Acá te lo cuento\n\nVideo de Jaime Altozano: https://www.youtube.com/watch?v=wJDWdPKH4g0",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ned9QNmDLoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ned9QNmDLoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ned9QNmDLoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ned9QNmDLoM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ned9QNmDLoM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ned9QNmDLoM"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ls9OeOkE68M7E06UxTh2aE4byIY",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjE5MTNDOEFDNTcwM0M2NzM=",
+            "snippet": {
+                "publishedAt": "2020-06-30T20:23:30Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "George Washington, la AGRICULTURA y un BURRO (QEPD Burrito)",
+                "description": "Hoy vamos a conocer la travesía de Royal Gift, un burro español hasta llegar al campito de George Washington. Pero como toda aventura también tiene un factor tristeza: otro burro se murio...que en paz descanses burro número 2.\nÉste VIERNES, SÁBADO y DOMINGO (3, 4 y 5 de julio) a partir de las 22:30 sale un tremendo especial de Washington por @History Latinoamérica ! Super recomendado!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j58QdG1dsX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j58QdG1dsX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j58QdG1dsX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j58QdG1dsX0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j58QdG1dsX0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "j58QdG1dsX0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jzlNztX6wb-2Vq6q1RtwDyBvaCo",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkY0ODU2NzVDNkRGOUVGMTk=",
+            "snippet": {
+                "publishedAt": "2020-06-28T18:55:23Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Spadone y la leche adulterada (Y el vino envenenado)",
+                "description": "Hoy vamos a ver la historia de corrupción atrás de el Plan Nacional Materno Infantil. La idea era repartir leche a los más necesitados...pero pequeño detalle: la leche tenia, como mínimo, E. Coli.\nAdemás: Vino envenenado y mozzarella con...caca\n\nCanal Nestor Montalbano:\nhttps://www.youtube.com/channel/UCHEK3QQ5BEK31ENnEyNWYFQ\n\nFuentes:\nhttps://www.pagina12.com.ar/1998/98-08/98-08-24/pag03.htm\nhttps://www.lanacion.com.ar/politica/condenaron-a-spadone-por-fraude-nid546867/\nhttps://www.lanacion.com.ar/politica/absolvieron-a-spadone-y-a-otros-dos-acusados-nid432381/\nhttps://www.infobae.com/sociedad/2019/03/11/leche-en-mal-estado-mozzarella-contaminada-y-vino-envenenado-cuando-en-los-90-los-argentinos-morimos-por-comer/\nhttps://www.pagina12.com.ar/especiales/20aniversario/con_la_mano_en_la_caja.html\nhttps://www.eldia.com/nota/2003-11-20-condenaron-a-spadone-por-vender-leche-contaminada\nhttps://www.lacapital.com.ar/del-milkgate-una-historia-altibajos-productivos-n308343.html\nhttps://www.diariojudicial.com/nota/43980",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L-vPdPlLiPo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L-vPdPlLiPo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L-vPdPlLiPo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L-vPdPlLiPo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/L-vPdPlLiPo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "L-vPdPlLiPo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "869d5dzvVKH5joShINwxS-puWgQ",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjNDMUE3REY3M0VEQUIyMEQ=",
+            "snippet": {
+                "publishedAt": "2020-06-26T21:37:16Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "MICKEY, ANNA FRANK y el DOMINIO PÚBLICO",
+                "description": "Hoy vamos a ver qué es el dominio público y por qué tenemos que esperar TANTO tiempo para poder utilizar una obra vieja.\n-Si sabés ingles te recomiendo éste video sobre el tema, explicado con dibujitos:\nhttps://www.youtube.com/watch?v=SiEXgpp37No\n-Con el tema de El Diario de Anna Frank el tema es un poco más complejos, en algunos paises logró entrar en Dominio Publico en 2016. En Europa, por ejemplo, no.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_jTx8MjbVJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_jTx8MjbVJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_jTx8MjbVJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_jTx8MjbVJA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_jTx8MjbVJA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_jTx8MjbVJA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "F9tEk5cpHsc-UTLcnEeqO7_0bHA",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjk2RUQ1OTFEN0JBQUEwNjg=",
+            "snippet": {
+                "publishedAt": "2020-06-24T22:35:54Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "CARLOS KAISER: El ¿FUTBOLISTA? profesional",
+                "description": "Hoy una historia que grabé hace unas dos semanas pero que, por algún motivo, empezó a aparecer en hilos de Twitter y en algunos portales digitales. Se arruinó la sorpresa.\nLa historia de Carlos Henrique Rasposo, también conocido como el \"Kaiser\", un tipo que supo pasar 20 años de su vida viviendo la vida (un poco redundante, no?) de futbolista profesional...sin saber jugar al fútbol.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qs7wrnp_YNE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qs7wrnp_YNE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qs7wrnp_YNE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qs7wrnp_YNE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qs7wrnp_YNE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qs7wrnp_YNE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hIshjmQE_weUKYccp36sNgRVlhk",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkM2QzBFQjYyQjhCQjg0MUY=",
+            "snippet": {
+                "publishedAt": "2020-06-21T19:38:46Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Puerta 12  - La mayor tragedia del futbol argentino",
+                "description": "Hace 52 años ocurría la mayor tragedia en el futbol argentino. Hasta hoy en día no se sabe por qué paso. Investigaciones que nunca se llevaron a cabo y un intento de, seguramente, cuidar a la AFA.\nRECOMIENDO: Puerta 12 de Pablo Tesoriere.\nGratis en http://cine.ar/.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BQHRVcT3660/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BQHRVcT3660/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BQHRVcT3660/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BQHRVcT3660/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BQHRVcT3660/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BQHRVcT3660"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y1oBSTd2kgbF7tGMCpJJg_rAbp0",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkNFRDA4MzFDNTJFOUZGRjc=",
+            "snippet": {
+                "publishedAt": "2020-06-19T14:04:59Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "DAVID MANNING: El MEJOR crítico de CINE?",
+                "description": "Hoy vamos a ver la historia del crítico de cine \"David Manning\", y va entre comillas porque digamos que muy real...no era.\nUna estrategia publicitaria que le salió mal a los amigos de Sony.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Eu9sPOLkbTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Eu9sPOLkbTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Eu9sPOLkbTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Eu9sPOLkbTU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Eu9sPOLkbTU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Eu9sPOLkbTU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8eqprdOZ4zbX4q_DT08Efpen5XE",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjUzNjgzNzA5QUVFRTdDMTE=",
+            "snippet": {
+                "publishedAt": "2020-06-17T23:55:06Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "PATTY HEARST y el SINDROME de ESTOCOLMO",
+                "description": "Hoy la historia de Patricia Hearst, quien fue secuestrada en el 74 y, de repente, se puso del lado de sus secuestradores: El Ejercito Simbiones de Liberación\nUn claro ejemplo del Sindrome de Estocolmo pero que, como en esa época aún no era tan conocido, no sirvió de mucho.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8_asa_9gXEg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8_asa_9gXEg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8_asa_9gXEg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8_asa_9gXEg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8_asa_9gXEg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8_asa_9gXEg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZIEToFlHMVAhc6NBNwlo8dIBDnU",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjJCNkVGQTFCMUY4OTdFQUM=",
+            "snippet": {
+                "publishedAt": "2020-06-14T19:26:13Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Caso Nora Dalmasso",
+                "description": "Hoy vamos a conocer la historia del femicidio de Nora Dalmasso. Un caso que sencillamente es un quilombo. Mientras iba avanzando en la escritura todo me parecía más ridículo. Pruebas que cambian, ADN que primero es y después no es, perejiles, fiscales que toman y dejan la causa.\nMe encantaría que ésta historia tenga otro final y que sea mas sencillo contarla, pero es, literalmente, imposible.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ks_rJF0MmOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ks_rJF0MmOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ks_rJF0MmOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ks_rJF0MmOI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ks_rJF0MmOI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ks_rJF0MmOI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ez_RXQ1E2hVv_SDiUe0pH_BfKWQ",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjJBQkU1RUIzNUM2NzFFOUU=",
+            "snippet": {
+                "publishedAt": "2020-06-12T16:14:00Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "La ASESINA que MURIÓ antes de MATAR",
+                "description": "Como te compliqué con ese título eh!\nHoy vamos a ver la historia de otra fallita de ADN, cuando un señor llamado Mike Silverman descubrió que había algunas cosas que se estaban haciendo mal.\nDos muertes, unas tijeras y mucha contaminación.\n\nhttps://www.centroficinasrl.com.ar/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jxrJRS7Qwto/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jxrJRS7Qwto/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jxrJRS7Qwto/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jxrJRS7Qwto/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jxrJRS7Qwto/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jxrJRS7Qwto"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oRiTg2ui6gkwLcAE47T6VFEyi30",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjRDNEM4RTRBRjA1QjE3QzU=",
+            "snippet": {
+                "publishedAt": "2020-06-10T23:54:08Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "DISNEY contra PARAGUAY",
+                "description": "Hoy la historia de cuando Walter Disney y su equipo entraron en conflicto con una empresa de alimentos de Paraguay: Mickey SRL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9vmbi5lvniI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9vmbi5lvniI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9vmbi5lvniI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9vmbi5lvniI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9vmbi5lvniI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9vmbi5lvniI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2UpCoJrYRx9E0Qv8004gOFMkaLI",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLjVFM0FERjAyQjlDNTdGRjY=",
+            "snippet": {
+                "publishedAt": "2020-06-07T17:04:23Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "Historias Innecesarias: Consumo...¿IRÓNICO?",
+                "description": "DATA IMPORTANTE:\n-Informe Revista Anfibia (Podcast incluido): http://revistaanfibia.com/ensayo/peligros-y-placeres-del-consumo-ironicos/\n-El gato y la caja: https://elgatoylacaja.com.ar/\n-Pensar Con Otros:\nPodes pedirlo acá: https://elgatoylacaja.com.ar/pensarconotros/\nO leerlo completamente gratis acá: https://elgatoylacaja.com/pensar-con-otros/indice/\n-La frase \"El troll que alimentas hoy, mañana es diputado\" la leí en un tweet de Pablo, de El Gato y la Caja, y me pareció fantástica: https://twitter.com/antecesorcomun\n-Los videos que aparecen al final son de Comedy Central Roast of Donald Trump.\n\nHoy vamos a hablar sobre nuestro consumo. Sobre el lado B de compartir algo que no nos gusta para criticarlo sin un buen respaldo. Sirve? O simplemente estamos amplificando más y más un mensaje que nos parece nefasto? Hacemos bien en repetir como loros las teorías conspirativas?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dEx-c2yRnaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dEx-c2yRnaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dEx-c2yRnaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dEx-c2yRnaA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dEx-c2yRnaA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dEx-c2yRnaA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ux4ZOplojTJLnrwUVkG8-1jLNTI",
+            "id": "VVVvR0JQQlh5cTI4Y0U0ZzJUYUI2bFJRLkQ2MjVBQjQwMjk0RDM4MUQ=",
+            "snippet": {
+                "publishedAt": "2020-06-06T00:10:03Z",
+                "channelId": "UCoGBPBXyq28cE4g2TaB6lRQ",
+                "title": "HIRO ONODA - El SOLDADO que NO SABÍA que la GUERRA FINALIZÓ",
+                "description": "Hoy la historia de un tipo bastante patriota: Hiro Onoda. Un hombre que, a pesar de que se lo avisaron varias veces, pensaba que la Segunda Guerra Mundial aún continuaba en marcha. Un hombre que vivió 30 años escondido en la jungla y que no pensaba rendirse por nada en el mundo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ERQ757fyr6I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ERQ757fyr6I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ERQ757fyr6I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ERQ757fyr6I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ERQ757fyr6I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damian Kuc",
+                "playlistId": "UUoGBPBXyq28cE4g2TaB6lRQ",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ERQ757fyr6I"
+                }
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 179,
+        "resultsPerPage": 50
+    }
+}
