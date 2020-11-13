@@ -10,18 +10,16 @@ VIDEO_ID = "RHlFYRonmj4"  #Shoko Asahara
 MAX_RESULTS = 10
 YOUTUBE_BASE_API_URL = "https://www.googleapis.com/youtube/v3/"
 
-# videos_list = "https://www.googleapis.com/youtube/v3/search?key=AIzaSyCuCqi6DNPjWgpsRnsRUtDlr0NpvMOJNuc&textFormat=plainText&channelId=UCoGBPBXyq28cE4g2TaB6lRQ&part=snippet,id&order=date&maxResults=50"
+# videos_list = "https://www.googleapis.com/youtube/v3/search?key=API_KEY&textFormat=plainText&channelId=UCoGBPBXyq28cE4g2TaB6lRQ&part=snippet,id&order=date&maxResults=50"
 
-# channel_uploads_data.json = "https://www.googleapis.com/youtube/v3/channels?key=AIzaSyCuCqi6DNPjWgpsRnsRUtDlr0NpvMOJNuc&part=contentDetails&id=UCoGBPBXyq28cE4g2TaB6lRQ"
-# channel_videos_list_data.json = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=UUoGBPBXyq28cE4g2TaB6lRQ&key=AIzaSyCuCqi6DNPjWgpsRnsRUtDlr0NpvMOJNuc&part=snippet&maxResults=50"
+# channel_uploads_data.json = "https://www.googleapis.com/youtube/v3/channels?key=API_KEY&part=contentDetails&id=UCoGBPBXyq28cE4g2TaB6lRQ"
+# channel_videos_list_data.json = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=UUoGBPBXyq28cE4g2TaB6lRQ&key=API_KEY&part=snippet&maxResults=50"
 
-# comments_data.json = "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet,replies&allThreadsRelatedToChannelId=UCoGBPBXyq28cE4g2TaB6lRQ&key=AIzaSyCuCqi6DNPjWgpsRnsRUtDlr0NpvMOJNuc&maxResults=100&order=time"
+# comments_data.json = "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet,replies&allThreadsRelatedToChannelId=UCoGBPBXyq28cE4g2TaB6lRQ&key=API_KEY&maxResults=100&order=time"
 # comments de canal (canal y videos) = "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet,replies&allThreadsRelatedToChannelId={CHANNEL_ID}&key={API_KEY}&maxResults=100&order=time"
 # con nextPageToken puedo obtener los resultados de la prox pag, mandarlo como param en pageToken
 
 # endpoints youtube api https://stackoverflow.com/questions/18953499/youtube-api-to-fetch-all-videos-on-a-channel
-
-#QURTSl9pMkR3VTlPeEVvcjB1TVhEYTFxcW4wTFZMS1A4XzRxSm5qamk5d3BZc2ptOUhEZ19lVXJISUd4eWxWR3MzVV9iUlUwSjlydXFBV1BGd0FGbWtsSmg3YzN4dkY2dG9oN244VjNlNlVMSFZLOEd4UGg0eXlyOWlQVV90WXhtcXI3b1VVaHlVM3BIVE4wd1dUSmRjS1VXTDV0WEdyWjRDOG9TM29keWQyT1RXdV93TXNKa0NzT2RBQXhQMURVWjdWaG53
 
 try:
     from urllib.request import Request, urlopen  # Python 3
