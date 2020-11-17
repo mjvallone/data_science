@@ -10,9 +10,11 @@ import gensim
 import nltk
 import es_core_news_sm
 import re
+import unidecode
 import pickle
 import time
 import altair as alt
+import pyLDAvis.gensim
 
 from pandas.io.json import json_normalize
 from spacy.lang.es import Spanish
@@ -88,11 +90,6 @@ for i in range(10):
 st.success("{} comentarios agregados".format(len(last_1000_comments)))
 placeholder.empty()
 
-#TODO
-# 3) interpretación de tópicos con pyLDAvis
-# 4) optimización de parámetros, siendo que LDA tiene cantidad de tópicos a analizar como un parámetro
-# debemos encontrar qué número es el óptimo
-
 def deEmojify(text):
   regrex_pattern = re.compile(pattern = "["
         u"\U0001F600-\U0001F64F"  # emoticons
@@ -117,11 +114,11 @@ def deEmojify(text):
   return regrex_pattern.sub(r'',text)
 
 def clean_text(text):
-  text = text.replace("*",' ')
   text = text.strip()
   text = text.lower()
-  text = deEmojify(text)
-  laugh_pattern = re.compile(pattern = "^(j[aeiou])+")
+  text = unidecode.unidecode(text) #accents
+  text = deEmojify(text) #emojis
+  laugh_pattern = re.compile(pattern = "^(j[aeiou])+") #laughs
   text = laugh_pattern.sub(r'', text)
   return text
 
@@ -137,7 +134,7 @@ def tokenize(comment):
       lda_tokens.append(token.lower_)
   return lda_tokens
 
-# Terms that dont belong to the business case
+# TODO Terms that dont belong to the business case
 #terms_dictionary = ["buenas noches", "buenas tardes", "buen dia", "buenas", "hola", "que tal"]
 
 #def get_lemma(word):
@@ -153,7 +150,7 @@ def get_lemma(word):
 def prepare_for_lda(comment):
   tokens = tokenize(comment)
   tokens = [token for token in tokens if token not in es_stop]
-  tokens = [token for token in tokens if len(token) > 2]
+  tokens = [token for token in tokens if len(token) > 4]
   #tokens = [token for token in tokens if token not in terms_dictionary]
   tokens = [get_lemma(token) for token in tokens]  
   #st.write(tokens) #uncomment to show generated tokens
@@ -176,17 +173,43 @@ corpus = [dictionary.doc2bow(text) for text in text_data]
 pickle.dump(corpus, open("corpus.pkl", "wb"))
 dictionary.save("dictionary.gensim")
 
-# Execution of several models to compare the coherence value
-start_time = time.time()
-
-model_list, coherence_values = compute_coherence_values(dictionary=dictionary, corpus=corpus, texts=text_data, start=2, limit=50, step=6)
-st.write("--- %s seconds for compute_coherence_values ---" % (time.time() - start_time))
-
-# Show graph
 limit=50
 start=2
 step=6
 x = range(start, limit, step)
-df = pd.DataFrame({'Num Topicos':x, 'Valor Coherencia':coherence_values})
-c = alt.Chart(df).mark_line().encode(x='Num Topicos', y='Valor Coherencia')
-st.altair_chart(c, use_container_width=True)
+
+# Execution of several models to compare the coherence value
+def calculate_coherence():
+  start_time = time.time()
+  model_list, coherence_values = compute_coherence_values(dictionary=dictionary, corpus=corpus, texts=text_data, start=2, limit=50, step=6)
+  st.write("--- %s seconds for compute_coherence_values ---" % (time.time() - start_time))
+  return model_list, coherence_values
+
+def show_graph(coherence_values):
+  df = pd.DataFrame({'Num Topicos':x, 'Valor Coherencia':coherence_values})
+  c = alt.Chart(df).mark_line().encode(x='Num Topicos', y='Valor Coherencia')
+  st.altair_chart(c, use_container_width=True)
+
+def generate_visualization(model_list):
+  optimal_model = model_list[4] #optimal value is 26, 4th pos in model_list
+  topics = optimal_model.print_topics(num_topics=-1, num_words=5)
+  t = []
+  for topic in topics:
+    t.append(topic[1].split("+"))
+    #pprint(t)
+  sent_topics_df = pd.DataFrame(data=t,columns=["word1","word2","word3","word4","word5"])
+  st.write(sent_topics_df)
+
+  lda_display = pyLDAvis.gensim.prepare(optimal_model, corpus, dictionary, sort_topics=False)
+  #pyLDAvis.display(lda_display)
+  #uncomment next line if you want to make an html file with the visualization
+  pyLDAvis.save_html(lda_display, 'lda.html')
+
+model_list, coherence_values = calculate_coherence()
+show_graph(coherence_values)
+
+# Print the coherence scores
+for m, cv in zip(x, coherence_values):
+  st.write("Num Topics =", m, " has Coherence Value of", round(cv, 4))
+
+generate_visualization(model_list)
