@@ -36,14 +36,8 @@ VIDEO_ID = "RHlFYRonmj4"  #Shoko Asahara
 MAX_RESULTS = 10
 YOUTUBE_BASE_API_URL = "https://www.googleapis.com/youtube/v3/"
 
-# videos_list = "https://www.googleapis.com/youtube/v3/search?key=API_KEY&textFormat=plainText&channelId=UCoGBPBXyq28cE4g2TaB6lRQ&part=snippet,id&order=date&maxResults=50"
-
-# channel_uploads_data.json = "https://www.googleapis.com/youtube/v3/channels?key=API_KEY&part=contentDetails&id=UCoGBPBXyq28cE4g2TaB6lRQ"
-# channel_videos_list_data.json = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=UUoGBPBXyq28cE4g2TaB6lRQ&key=API_KEY&part=snippet&maxResults=50"
-
 # comments_data.json = "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet,replies&allThreadsRelatedToChannelId=UCoGBPBXyq28cE4g2TaB6lRQ&key=API_KEY&maxResults=100&order=time"
 # comments de canal (canal y videos) = "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet,replies&allThreadsRelatedToChannelId={CHANNEL_ID}&key={API_KEY}&maxResults=100&order=time"
-# con nextPageToken puedo obtener los resultados de la prox pag, mandarlo como param en pageToken
 
 # endpoints youtube api https://stackoverflow.com/questions/18953499/youtube-api-to-fetch-all-videos-on-a-channel
 
@@ -137,13 +131,6 @@ def tokenize(comment):
 # TODO Terms that dont belong to the business case
 #terms_dictionary = ["buenas noches", "buenas tardes", "buen dia", "buenas", "hola", "que tal"]
 
-#def get_lemma(word):
-#  lemma = wn.morphy(word)
-#  if lemma is None:
-#    return word
-#  else:
-#    return lemma
-
 def get_lemma(word):
   return WordNetLemmatizer().lemmatize(word)
 
@@ -157,19 +144,17 @@ def prepare_for_lda(comment):
   # return tokens
   text_data.append(tokens)
 
-#FIXME consider using list comprehension, itertuples, iterrows
-#https://towardsdatascience.com/apply-function-to-pandas-dataframe-rows-76df74165ee4
-
 comments = last_1000_comments.apply(clean_text)
 # st.table(comments.head(100))
 text_data = []
 comments.apply(prepare_for_lda, text_data)
 # st.table(text_data[0:10])
 
-#generate dictionary from tokens obtained from comments
+# generate dictionary from tokens obtained from comments
 dictionary = corpora.Dictionary(text_data)
 corpus = [dictionary.doc2bow(text) for text in text_data]
 
+# save dictionary and corpus
 pickle.dump(corpus, open("corpus.pkl", "wb"))
 dictionary.save("dictionary.gensim")
 
@@ -180,9 +165,9 @@ x = range(start, limit, step)
 
 # Execution of several models to compare the coherence value
 def calculate_coherence():
-  start_time = time.time()
-  model_list, coherence_values = compute_coherence_values(dictionary=dictionary, corpus=corpus, texts=text_data, start=2, limit=50, step=6)
-  st.write("--- %s seconds for compute_coherence_values ---" % (time.time() - start_time))
+  model_list, coherence_values = compute_coherence_values(dictionary=dictionary, corpus=corpus, texts=text_data, start=start, limit=limit, step=step)
+  # start_time = time.time()
+  # st.write("--- %s seconds for compute_coherence_values ---" % (time.time() - start_time))
   return model_list, coherence_values
 
 def show_graph(coherence_values):
@@ -191,6 +176,7 @@ def show_graph(coherence_values):
   st.altair_chart(c, use_container_width=True)
 
 def generate_visualization(model_list):
+  #FIXME I should look for the max value in model_list to get optimal_model
   optimal_model = model_list[4] #optimal value is 26, 4th pos in model_list
   topics = optimal_model.print_topics(num_topics=-1, num_words=5)
   t = []
@@ -201,9 +187,10 @@ def generate_visualization(model_list):
   st.write(sent_topics_df)
 
   lda_display = pyLDAvis.gensim.prepare(optimal_model, corpus, dictionary, sort_topics=False)
-  #pyLDAvis.display(lda_display)
+  pyLDAvis.display(lda_display)
   #uncomment next line if you want to make an html file with the visualization
   pyLDAvis.save_html(lda_display, 'lda.html')
+
 
 model_list, coherence_values = calculate_coherence()
 show_graph(coherence_values)
