@@ -106,7 +106,7 @@ traitlets==4.3.3
 typing==3.7.4.1
 typing-extensions==3.7.4.3
 tzlocal==2.1
-urllib3==1.25.9
+urllib3==1.26.5
 validators==0.15.0
 wasabi==0.8.0
 watchdog==0.10.3
